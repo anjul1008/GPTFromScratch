@@ -1,6 +1,0 @@
-Lexical tokenization is conversion of a text into meaningful lexical tokens belonging to categories defined by a "lexer" program. 
-In case of a natural language, those categories include nouns, verbs, adjectives, punctuations etc. 
-In case of a programming language, the categories include identifiers, operators, grouping symbols and data types. 
-Lexical tokenization is related to the type of tokenization used in large language models but with two differences. 
-First, lexical tokenization is usually based on a lexical grammar, whereas LLM tokenizers are usually probability-based. 
-Second, LLM tokenizers perform a second step that converts the tokens into numerical values
