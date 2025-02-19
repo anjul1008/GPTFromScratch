@@ -1,2 +1,2 @@
 # LearnGPTFromScratchWithAnjul
-Learn how to train GPT like model from scratch
+Learn how to train GPT like Model from scratch
