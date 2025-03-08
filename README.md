@@ -1,4 +1,4 @@
-# LearnGPTFromScratchWithAnjul
+# GPT From Scratch
 
 This repository is a step-by-step guide to understanding and implementing GPT-like models from scratch. Each section focuses on a key component, starting from data loading to reconstructing a simplified GPT-2 model. If you want to dive deep into transformers and self-attention mechanisms, this repository is for you!
 
